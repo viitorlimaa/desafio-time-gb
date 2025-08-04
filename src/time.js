@@ -1,6 +1,6 @@
 const time = {
-  nome: "Nome do time",
-  estado: "Estado do time",
+  nome: "Flamengo",
+  estado: "Rio de Janeiro",
   jogadores: [],
 };
 module.exports = time;

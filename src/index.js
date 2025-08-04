@@ -21,6 +21,7 @@ addJogador(time, "Thiago", "meia", 8);
 addJogador(time, "Pedro", "atacante", 9);
 addJogador(time, "José", "atacante", 10);
 addJogador(time, "Felipe", "atacante", 11);
+console.log(time.jogadores)
 
 console.log("\n Lista de atacantes");
 console.log(listarAtacantes(time));

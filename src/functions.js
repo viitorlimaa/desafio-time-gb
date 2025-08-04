@@ -1,4 +1,4 @@
-// Adiciona jogador com verificação
+const time = require("./time.js");
 
 /**
  * @param {string} time
